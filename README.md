@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KapilKMaheshwari
+- 👋 Hi, I’m @Kapil Maheshwari
 - 👀 I’m interested in ...Java Programming
 - 🌱 I’m currently learning ...Java Programming
 - 💞️ I’m looking to collaborate on ...Java Programming
